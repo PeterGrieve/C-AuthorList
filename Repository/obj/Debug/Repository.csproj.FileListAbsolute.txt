@@ -1,0 +1,56 @@
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Repository\bin\Debug\Repository.dll
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Repository\bin\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Repository\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Repository\bin\Debug\Model.dll
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Repository\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Repository\bin\Debug\Model.pdb
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Repository\obj\Debug\Repository.dll
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Repository\obj\Debug\Repository.pdb
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Repository\bin\Debug\Repository.dll
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Repository\bin\Debug\Repository.pdb
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Repository\bin\Debug\configFile.dll
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Repository\bin\Debug\Model.dll
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Repository\bin\Debug\configFile.pdb
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Repository\bin\Debug\Model.pdb
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Repository\obj\Debug\Repository.dll
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Repository\obj\Debug\Repository.pdb
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Repository\bin\Debug\Repository.dll
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Repository\bin\Debug\Repository.pdb
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Repository\bin\Debug\configFile.dll
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Repository\bin\Debug\Model.dll
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Repository\bin\Debug\configFile.pdb
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Repository\bin\Debug\Model.pdb
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Repository\obj\Debug\Repository.dll
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Repository\obj\Debug\Repository.pdb
+T:\Peter Grieve\CP240\Lab04\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+T:\Peter Grieve\CP240\Lab04\Repository\obj\Debug\Repository.dll
+T:\Peter Grieve\CP240\Lab04\Repository\obj\Debug\Repository.pdb
+T:\Peter Grieve\CP240\Lab04\Repository\bin\Debug\Repository.dll
+T:\Peter Grieve\CP240\Lab04\Repository\bin\Debug\Repository.pdb
+T:\Peter Grieve\CP240\Lab04\Repository\bin\Debug\configFile.dll
+T:\Peter Grieve\CP240\Lab04\Repository\bin\Debug\Model.dll
+T:\Peter Grieve\CP240\Lab04\Repository\bin\Debug\configFile.pdb
+T:\Peter Grieve\CP240\Lab04\Repository\bin\Debug\Model.pdb
+E:\CP 240\Lab04\Repository\bin\Debug\Repository.dll
+E:\CP 240\Lab04\Repository\bin\Debug\Repository.pdb
+E:\CP 240\Lab04\Repository\bin\Debug\configFile.dll
+E:\CP 240\Lab04\Repository\bin\Debug\Model.dll
+E:\CP 240\Lab04\Repository\bin\Debug\configFile.pdb
+E:\CP 240\Lab04\Repository\bin\Debug\Model.pdb
+E:\CP 240\Lab04\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\CP 240\Lab04\Repository\obj\Debug\Repository.dll
+E:\CP 240\Lab04\Repository\obj\Debug\Repository.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Repository\bin\Debug\Repository.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Repository\bin\Debug\Repository.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Repository\bin\Debug\configFile.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Repository\bin\Debug\Model.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Repository\bin\Debug\configFile.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Repository\bin\Debug\Model.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Repository\obj\Debug\Repository.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,30 @@
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Model\bin\Debug\Model.dll
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Model\bin\Debug\Model.pdb
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Model\obj\Debug\Model.dll
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\Model\obj\Debug\Model.pdb
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Model\bin\Debug\Model.dll
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Model\bin\Debug\Model.pdb
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Model\obj\Debug\Model.dll
+T:\Peter Grieve\CP240\DesignPatterns(Layered)\consoleReadAuthors\Model\obj\Debug\Model.pdb
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Model\bin\Debug\Model.dll
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Model\bin\Debug\Model.pdb
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Model\obj\Debug\Model.dll
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\Model\obj\Debug\Model.pdb
+E:\CP 240\Lab04\Model\bin\Debug\Model.dll
+E:\CP 240\Lab04\Model\bin\Debug\Model.pdb
+E:\CP 240\Lab04\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\CP 240\Lab04\Model\obj\Debug\Model.dll
+E:\CP 240\Lab04\Model\obj\Debug\Model.pdb
+T:\Peter Grieve\CP240\Lab04\Model\bin\Debug\Model.dll
+T:\Peter Grieve\CP240\Lab04\Model\bin\Debug\Model.pdb
+T:\Peter Grieve\CP240\Lab04\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+T:\Peter Grieve\CP240\Lab04\Model\obj\Debug\Model.dll
+T:\Peter Grieve\CP240\Lab04\Model\obj\Debug\Model.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Model\bin\Debug\Model.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Model\bin\Debug\Model.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Model\obj\Debug\Model.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\Model\obj\Debug\Model.pdb

@@ -1,0 +1,57 @@
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\PubsService\bin\Debug\PubsService.dll
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\PubsService\bin\Debug\PubsService.pdb
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\PubsService\bin\Debug\Model.dll
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\PubsService\bin\Debug\Repository.dll
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\PubsService\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\PubsService\bin\Debug\Model.pdb
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\PubsService\bin\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\PubsService\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\PubsService\obj\Debug\PubsService.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\PubsService\obj\Debug\PubsService.dll
+C:\Users\NHTI\Desktop\DesignPatterns(Layered)\consoleReadAuthors\PubsService\obj\Debug\PubsService.pdb
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\PubsService\bin\Debug\PubsService.dll
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\PubsService\bin\Debug\PubsService.pdb
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\PubsService\bin\Debug\Model.dll
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\PubsService\bin\Debug\Repository.dll
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\PubsService\bin\Debug\configFile.dll
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\PubsService\bin\Debug\Model.pdb
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\PubsService\bin\Debug\Repository.pdb
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\PubsService\bin\Debug\configFile.pdb
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\PubsService\obj\Debug\PubsService.csprojResolveAssemblyReference.cache
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\PubsService\obj\Debug\PubsService.dll
+T:\Peter Grieve\CP240\Lab04\consoleReadAuthors\PubsService\obj\Debug\PubsService.pdb
+T:\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\PubsService.dll
+T:\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\PubsService.pdb
+T:\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\Model.dll
+T:\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\Repository.dll
+T:\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\configFile.dll
+T:\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\Model.pdb
+T:\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\Repository.pdb
+T:\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\configFile.pdb
+T:\Peter Grieve\CP240\Lab04\PubsService\obj\Debug\PubsService.csprojResolveAssemblyReference.cache
+T:\Peter Grieve\CP240\Lab04\PubsService\obj\Debug\PubsService.dll
+T:\Peter Grieve\CP240\Lab04\PubsService\obj\Debug\PubsService.pdb
+E:\CP 240\Lab04\PubsService\bin\Debug\PubsService.dll
+E:\CP 240\Lab04\PubsService\bin\Debug\PubsService.pdb
+E:\CP 240\Lab04\PubsService\bin\Debug\Model.dll
+E:\CP 240\Lab04\PubsService\bin\Debug\Repository.dll
+E:\CP 240\Lab04\PubsService\bin\Debug\configFile.dll
+E:\CP 240\Lab04\PubsService\bin\Debug\Model.pdb
+E:\CP 240\Lab04\PubsService\bin\Debug\Repository.pdb
+E:\CP 240\Lab04\PubsService\bin\Debug\configFile.pdb
+E:\CP 240\Lab04\PubsService\obj\Debug\PubsService.csprojResolveAssemblyReference.cache
+E:\CP 240\Lab04\PubsService\obj\Debug\PubsService.dll
+E:\CP 240\Lab04\PubsService\obj\Debug\PubsService.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\PubsService.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\PubsService.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\Model.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\Repository.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\configFile.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\Model.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\Repository.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\bin\Debug\configFile.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\obj\Debug\PubsService.csprojAssemblyReference.cache
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\obj\Debug\PubsService.csproj.CoreCompileInputs.cache
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\obj\Debug\PubsService.csproj.CopyComplete
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\obj\Debug\PubsService.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\PubsService\obj\Debug\PubsService.pdb

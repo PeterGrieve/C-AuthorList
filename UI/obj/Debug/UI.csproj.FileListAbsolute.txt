@@ -1,0 +1,58 @@
+T:\Peter Grieve\CP240\Lab04\UI\bin\Debug\UI.exe.config
+T:\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+T:\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.Properties.Resources.resources
+T:\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+T:\Peter Grieve\CP240\Lab04\UI\bin\Debug\UI.exe
+T:\Peter Grieve\CP240\Lab04\UI\bin\Debug\UI.pdb
+T:\Peter Grieve\CP240\Lab04\UI\bin\Debug\configFile.dll
+T:\Peter Grieve\CP240\Lab04\UI\bin\Debug\Model.dll
+T:\Peter Grieve\CP240\Lab04\UI\bin\Debug\PubsService.dll
+T:\Peter Grieve\CP240\Lab04\UI\bin\Debug\Repository.dll
+T:\Peter Grieve\CP240\Lab04\UI\bin\Debug\configFile.pdb
+T:\Peter Grieve\CP240\Lab04\UI\bin\Debug\Model.pdb
+T:\Peter Grieve\CP240\Lab04\UI\bin\Debug\PubsService.pdb
+T:\Peter Grieve\CP240\Lab04\UI\bin\Debug\Repository.pdb
+T:\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.Form1.resources
+T:\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.exe
+T:\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.pdb
+E:\CP 240\Lab04\UI\bin\Debug\UI.exe.config
+E:\CP 240\Lab04\UI\obj\Debug\UI.exe
+E:\CP 240\Lab04\UI\obj\Debug\UI.pdb
+E:\CP 240\Lab04\UI\bin\Debug\UI.exe
+E:\CP 240\Lab04\UI\bin\Debug\UI.pdb
+E:\CP 240\Lab04\UI\bin\Debug\configFile.dll
+E:\CP 240\Lab04\UI\bin\Debug\Model.dll
+E:\CP 240\Lab04\UI\bin\Debug\PubsService.dll
+E:\CP 240\Lab04\UI\bin\Debug\Repository.dll
+E:\CP 240\Lab04\UI\bin\Debug\configFile.pdb
+E:\CP 240\Lab04\UI\bin\Debug\Model.pdb
+E:\CP 240\Lab04\UI\bin\Debug\PubsService.pdb
+E:\CP 240\Lab04\UI\bin\Debug\Repository.pdb
+E:\CP 240\Lab04\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\CP 240\Lab04\UI\obj\Debug\UI.Form1.resources
+E:\CP 240\Lab04\UI\obj\Debug\UI.Form2.resources
+E:\CP 240\Lab04\UI\obj\Debug\UI.Properties.Resources.resources
+E:\CP 240\Lab04\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+T:\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.Form2.resources
+T:\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.Form3.resources
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\bin\Debug\UI.exe.config
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\bin\Debug\UI.exe
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\bin\Debug\UI.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\bin\Debug\configFile.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\bin\Debug\Model.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\bin\Debug\PubsService.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\bin\Debug\Repository.dll
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\bin\Debug\configFile.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\bin\Debug\Model.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\bin\Debug\PubsService.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\bin\Debug\Repository.pdb
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.Form1.resources
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.Form2.resources
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.Form3.resources
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.exe
+C:\Users\Peter A Grieve\Documents\NHTI\Peter GrieveFall2016\Peter Grieve\CP240\Lab04\UI\obj\Debug\UI.pdb

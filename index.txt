@@ -1,0 +1,10 @@
+authors.txt - a text file of authors.  
+
+Author Readers: 
+ConsoleReadAuthors - simple read of authors from text file.  Uses configuration file.
+Smart UI - No layers.  Reads all fields from the text box and displays the authors in a list view.   
+Smart UI Prof. Gitlitz - Another method for reading data from authors file
+DataAccessLayerSimple - repository and domain model.  Simple read of file.
+ServiceLayerWithDAL - repository, domain model and service layer with UI.  Reads all fields from the file.  
+ 
+
